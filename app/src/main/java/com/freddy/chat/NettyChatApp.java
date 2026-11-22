@@ -1,13 +1,13 @@
-package com.freddy.chat;
+﻿package com.freddy.chat;
 
-import android.support.multidex.MultiDexApplication;
+import androidx.multidex.MultiDexApplication;
 
 /**
  * <p>@ProjectName:     NettyChat</p>
  * <p>@ClassName:       NettyChatApp.java</p>
  * <p>@PackageName:     com.freddy.chat</p>
  * <b>
- * <p>@Description:     类描述</p>
+ * <p>@Description:     绫绘弿杩?/p>
  * </b>
  * <p>@author:          FreddyChen</p>
  * <p>@date:            2019/04/07 23:58</p>
@@ -30,3 +30,4 @@ public class NettyChatApp extends MultiDexApplication {
         instance = this;
     }
 }
+

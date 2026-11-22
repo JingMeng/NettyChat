@@ -1,6 +1,6 @@
-package com.freddy.chat;
+﻿package com.freddy.chat;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -85,3 +85,4 @@ public class MainActivity extends AppCompatActivity implements I_CEventListener 
         }
     }
 }
+
